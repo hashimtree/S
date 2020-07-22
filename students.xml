@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="students">
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+        <item>zz</item>
+    </string-array>
+</resources>

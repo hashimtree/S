@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">S</string>
+    <string name="title_activity_main">MAIN_ACTIVITY</string>
+   <string-array name="user">
+    <item>admin</item>
+    <item>jhon</item>
+</string-array>
+
+<string-array name="pass">
+    <item>admin</item>
+    <item>littlejhon</item>
+</string-array> 
+    
+    
+    
+</resources>
